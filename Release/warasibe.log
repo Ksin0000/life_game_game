@@ -1,0 +1,11 @@
+﻿  life.cpp
+life.cpp(74): warning C4800: 'int': ブール値を 'true' または 'false' に強制的に設定します (警告の処理)
+life.cpp(94): warning C4800: 'int': ブール値を 'true' または 'false' に強制的に設定します (警告の処理)
+life.cpp(113): warning C4800: 'int': ブール値を 'true' または 'false' に強制的に設定します (警告の処理)
+     ライブラリ D:\My Files on HDD\プログラミング\電工\life\Release\life.lib とオブジェクト D:\My Files on HDD\プログラミング\電工\life\Release\life.exp を作成中
+  コード生成しています。
+  2 of 81 functions ( 2.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  warasibe.vcxproj -> D:\My Files on HDD\プログラミング\電工\life\Release\life.exe
